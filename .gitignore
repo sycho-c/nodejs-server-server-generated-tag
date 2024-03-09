@@ -1,0 +1,10 @@
+# Custom
+node_modules/
+
+# IntelliJ Idea
+.idea/
+*.iml
+*.ipr
+
+### build
+.flattened-pom.xml
